@@ -5,7 +5,7 @@
 <h3 style="left: 50px; position:relative;">About me:</h3>
 
 - 👋 Hi, I’m TanishPradhan
-- 👀 Currently, pursuing my 3rd Year undergrad in CSE
+- 👀 Currently, pursuing my 4th Year undergrad in CSE
 - ✨ Google Developer Student Clubs Lead @GDSC-SVVV
 - 🌱 I’m a Flutter Developer
 - 💞️ I’m looking to collaborate on Flutter Development
