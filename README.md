@@ -6,11 +6,12 @@
 
 - 👋 Hi, I’m TanishPradhan
 - 👀 Currently, pursuing my 4th Year undergrad in CSE
-- ✨ Google Developer Student Clubs Lead @GDSC-SVVV
+- ✨ Google Developer Student Clubs Lead 21' @GDSC-SVVV
 - 🌱 I’m a Flutter Developer
 - 💞️ I’m looking to collaborate on Flutter Development
+- 🎉 Flutter Festival Facilitator 2021
 - 📱 Android Study Jams Facilitator 2020-2022
-- 💙 Flutter Intern at TraxSmart | Ex-Intern @Manal Softech
+- 💙 Flutter Intern at Ufaber EduTech | Ex-Intern (Flutter) @TraxSmart | Ex-Intern (Flutter) @Manal Softech
 
 
 
