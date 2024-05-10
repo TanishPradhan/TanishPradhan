@@ -4,14 +4,14 @@
 
 <h3 style="left: 50px; position:relative;">About me:</h3>
 
-- 👋 Hi, I’m TanishPradhan
-- 👀 Currently, pursuing my 4th Year undergrad in CSE
+- 👋 Hi, I’m Tanish Pradhan
+- 👀 Working as a Flutter Developer at Ufaber EduTech
 - ✨ Google Developer Student Clubs Lead 21' @GDSC-SVVV
 - 🌱 I’m a Flutter Developer
 - 💞️ I’m looking to collaborate on Flutter Development
 - 🎉 Flutter Festival Facilitator 2021
 - 📱 Android Study Jams Facilitator 2020-2022
-- 💙 Flutter Intern at Ufaber EduTech | Ex-Intern (Flutter) @TraxSmart | Ex-Intern (Flutter) @Manal Softech
+- 💙 Ex-Intern (Flutter) @TraxSmart | Ex-Intern (Flutter) @Manal Softech
 
 
 
